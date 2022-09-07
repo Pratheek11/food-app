@@ -1,0 +1,302 @@
+[
+  {
+    "id": 0,
+    "name": "The Great Indian",
+    "location": "Bangalore",
+    "ratings": 4,
+    "category": ["Indian", "Meals"],
+    "modes": ["Delivery", "Pickup"],
+    "description": "The India masala special",
+    "image": {
+      "uri": "https://media.timeout.com/images/105802468/750/422/image.jpg"
+    },
+    "menu": [
+      {
+        "title": "Tandoori Chicken",
+        "description": "Amazing indian dish with tanderlion chicken off the sizzles",
+        "price": "$20.0",
+        "image": "https://spicecravings.com/wp-content/uploads/2018/05/Tandoori-Chicken-3.jpg"
+      },
+      {
+        "title": "Butter naan",
+        "description": "A wheat roll with some grains and leaves",
+        "price": "$1.0",
+        "image": "https://www.cookwithmanali.com/wp-content/uploads/2014/11/Soft-Homemade-Naan-500x500.jpg"
+      },
+      {
+        "title": "Chicken Burger",
+        "description": "A sizzling crispy two bun with chicken brest",
+        "price": "$5.0",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIgV6feJi91qaOO2qw2-6arIRNLPnKveIPg&usqp=CAU"
+      },
+      {
+        "title": "Tandoori Chicken",
+        "description": "Amazing indian dish with tanderlion chicken off the sizzles",
+        "price": "$20.0",
+        "image": "https://spicecravings.com/wp-content/uploads/2018/05/Tandoori-Chicken-3.jpg"
+      },
+      {
+        "title": "Butter naan",
+        "description": "A wheat roll with some grains and leaves",
+        "price": "$1.0",
+        "image": "https://www.cookwithmanali.com/wp-content/uploads/2014/11/Soft-Homemade-Naan-500x500.jpg"
+      },
+      {
+        "title": "Chicken Burger",
+        "description": "A sizzling crispy two bun with chicken brest",
+        "price": "$5.0",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIgV6feJi91qaOO2qw2-6arIRNLPnKveIPg&usqp=CAU"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "The Punjabi's",
+    "location": "Bangalore",
+    "ratings": 4,
+    "category": ["Indian", "Meals"],
+    "modes": ["Delivery"],
+    "description": "The India masala special",
+    "image": {
+      "uri": "https://media.timeout.com/images/105802468/750/422/image.jpg"
+    },
+    "menu": [
+      {
+        "title": "Tandoori Chicken",
+        "description": "Amazing indian dish with tanderlion chicken off the sizzles",
+        "price": "$20.0",
+        "image": "https://spicecravings.com/wp-content/uploads/2018/05/Tandoori-Chicken-3.jpg"
+      },
+      {
+        "title": "Butter naan",
+        "description": "A wheat roll with some grains and leaves",
+        "price": "$1.0",
+        "image": "https://www.cookwithmanali.com/wp-content/uploads/2014/11/Soft-Homemade-Naan-500x500.jpg"
+      },
+      {
+        "title": "Chicken Burger",
+        "description": "A sizzling crispy two bun with chicken brest",
+        "price": "$5.0",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIgV6feJi91qaOO2qw2-6arIRNLPnKveIPg&usqp=CAU"
+      },
+      {
+        "title": "Tandoori Chicken",
+        "description": "Amazing indian dish with tanderlion chicken off the sizzles",
+        "price": "$20.0",
+        "image": "https://spicecravings.com/wp-content/uploads/2018/05/Tandoori-Chicken-3.jpg"
+      },
+      {
+        "title": "Butter naan",
+        "description": "A wheat roll with some grains and leaves",
+        "price": "$1.0",
+        "image": "https://www.cookwithmanali.com/wp-content/uploads/2014/11/Soft-Homemade-Naan-500x500.jpg"
+      },
+      {
+        "title": "Chicken Burger",
+        "description": "A sizzling crispy two bun with chicken brest",
+        "price": "$5.0",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIgV6feJi91qaOO2qw2-6arIRNLPnKveIPg&usqp=CAU"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Hikupps",
+    "location": "Bangalore",
+    "ratings": 4.5,
+    "category": ["RestoBar", "Meals"],
+    "modes": ["Delivery", "Pickup"],
+    "description": "The India masala special",
+    "image": {
+      "uri": "https://media.timeout.com/images/105802468/750/422/image.jpg"
+    },
+    "menu": [
+      {
+        "title": "Tandoori Chicken",
+        "description": "Amazing indian dish with tanderlion chicken off the sizzles",
+        "price": "$20.0",
+        "image": "https://spicecravings.com/wp-content/uploads/2018/05/Tandoori-Chicken-3.jpg"
+      },
+      {
+        "title": "Butter naan",
+        "description": "A wheat roll with some grains and leaves",
+        "price": "$1.0",
+        "image": "https://www.cookwithmanali.com/wp-content/uploads/2014/11/Soft-Homemade-Naan-500x500.jpg"
+      },
+      {
+        "title": "Chicken Burger",
+        "description": "A sizzling crispy two bun with chicken brest",
+        "price": "$5.0",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIgV6feJi91qaOO2qw2-6arIRNLPnKveIPg&usqp=CAU"
+      },
+      {
+        "title": "Tandoori Chicken",
+        "description": "Amazing indian dish with tanderlion chicken off the sizzles",
+        "price": "$20.0",
+        "image": "https://spicecravings.com/wp-content/uploads/2018/05/Tandoori-Chicken-3.jpg"
+      },
+      {
+        "title": "Butter naan",
+        "description": "A wheat roll with some grains and leaves",
+        "price": "$1.0",
+        "image": "https://www.cookwithmanali.com/wp-content/uploads/2014/11/Soft-Homemade-Naan-500x500.jpg"
+      },
+      {
+        "title": "Chicken Burger",
+        "description": "A sizzling crispy two bun with chicken brest",
+        "price": "$5.0",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIgV6feJi91qaOO2qw2-6arIRNLPnKveIPg&usqp=CAU"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Burgerking",
+    "location": "Bangalore",
+    "ratings": 4.1,
+    "category": ["Indian", "Fastfood"],
+    "modes": ["Delivery", "Pickup"],
+    "description": "The India masala special",
+    "image": {
+      "uri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPje-ROqICwD3_AwY2DIpkeA0kRaeLNQxRKg&usqp=CAU"
+    },
+    "menu": [
+      {
+        "title": "Tandoori Chicken",
+        "description": "Amazing indian dish with tanderlion chicken off the sizzles",
+        "price": "$20.0",
+        "image": "https://spicecravings.com/wp-content/uploads/2018/05/Tandoori-Chicken-3.jpg"
+      },
+      {
+        "title": "Butter naan",
+        "description": "A wheat roll with some grains and leaves",
+        "price": "$1.0",
+        "image": "https://www.cookwithmanali.com/wp-content/uploads/2014/11/Soft-Homemade-Naan-500x500.jpg"
+      },
+      {
+        "title": "Chicken Burger",
+        "description": "A sizzling crispy two bun with chicken brest",
+        "price": "$5.0",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIgV6feJi91qaOO2qw2-6arIRNLPnKveIPg&usqp=CAU"
+      },
+      {
+        "title": "Tandoori Chicken",
+        "description": "Amazing indian dish with tanderlion chicken off the sizzles",
+        "price": "$20.0",
+        "image": "https://spicecravings.com/wp-content/uploads/2018/05/Tandoori-Chicken-3.jpg"
+      },
+      {
+        "title": "Butter naan",
+        "description": "A wheat roll with some grains and leaves",
+        "price": "$1.0",
+        "image": "https://www.cookwithmanali.com/wp-content/uploads/2014/11/Soft-Homemade-Naan-500x500.jpg"
+      },
+      {
+        "title": "Chicken Burger",
+        "description": "A sizzling crispy two bun with chicken brest",
+        "price": "$5.0",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIgV6feJi91qaOO2qw2-6arIRNLPnKveIPg&usqp=CAU"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Cafe Coffee Day",
+    "location": "Bangalore",
+    "ratings": 4.5,
+    "category": ["Coffee & Tea", "Bakery"],
+    "modes": ["Delivery", "Pickup"],
+    "description": "The India masala special",
+    "image": {
+      "uri": "https://media.timeout.com/images/105802468/750/422/image.jpg"
+    },
+    "menu": [
+      {
+        "title": "Tandoori Chicken",
+        "description": "Amazing indian dish with tanderlion chicken off the sizzles",
+        "price": "$20.0",
+        "image": "https://spicecravings.com/wp-content/uploads/2018/05/Tandoori-Chicken-3.jpg"
+      },
+      {
+        "title": "Butter naan",
+        "description": "A wheat roll with some grains and leaves",
+        "price": "$1.0",
+        "image": "https://www.cookwithmanali.com/wp-content/uploads/2014/11/Soft-Homemade-Naan-500x500.jpg"
+      },
+      {
+        "title": "Chicken Burger",
+        "description": "A sizzling crispy two bun with chicken brest",
+        "price": "$5.0",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIgV6feJi91qaOO2qw2-6arIRNLPnKveIPg&usqp=CAU"
+      },
+      {
+        "title": "Tandoori Chicken",
+        "description": "Amazing indian dish with tanderlion chicken off the sizzles",
+        "price": "$20.0",
+        "image": "https://spicecravings.com/wp-content/uploads/2018/05/Tandoori-Chicken-3.jpg"
+      },
+      {
+        "title": "Butter naan",
+        "description": "A wheat roll with some grains and leaves",
+        "price": "$1.0",
+        "image": "https://www.cookwithmanali.com/wp-content/uploads/2014/11/Soft-Homemade-Naan-500x500.jpg"
+      },
+      {
+        "title": "Chicken Burger",
+        "description": "A sizzling crispy two bun with chicken brest",
+        "price": "$5.0",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIgV6feJi91qaOO2qw2-6arIRNLPnKveIPg&usqp=CAU"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "KFC",
+    "location": "Bangalore",
+    "ratings": 4,
+    "category": ["Fastfood", "Bakery", "Desserts"],
+    "modes": ["Delivery", "Pickup"],
+    "description": "The India masala special",
+    "image": {
+      "uri": "https://im1.dineout.co.in/images/uploads/restaurant/sharpen/7/t/d/p7339-1502390066598ca73206943.jpg?tr=tr:n-xlarge"
+    },
+    "menu": [
+      {
+        "title": "Tandoori Chicken",
+        "description": "Amazing indian dish with tanderlion chicken off the sizzles",
+        "price": "$20.0",
+        "image": "https://spicecravings.com/wp-content/uploads/2018/05/Tandoori-Chicken-3.jpg"
+      },
+      {
+        "title": "Butter naan",
+        "description": "A wheat roll with some grains and leaves",
+        "price": "$1.0",
+        "image": "https://www.cookwithmanali.com/wp-content/uploads/2014/11/Soft-Homemade-Naan-500x500.jpg"
+      },
+      {
+        "title": "Chicken Burger",
+        "description": "A sizzling crispy two bun with chicken brest",
+        "price": "$5.0",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIgV6feJi91qaOO2qw2-6arIRNLPnKveIPg&usqp=CAU"
+      },
+      {
+        "title": "Tandoori Chicken",
+        "description": "Amazing indian dish with tanderlion chicken off the sizzles",
+        "price": "$20.0",
+        "image": "https://spicecravings.com/wp-content/uploads/2018/05/Tandoori-Chicken-3.jpg"
+      },
+      {
+        "title": "Butter naan",
+        "description": "A wheat roll with some grains and leaves",
+        "price": "$1.0",
+        "image": "https://www.cookwithmanali.com/wp-content/uploads/2014/11/Soft-Homemade-Naan-500x500.jpg"
+      },
+      {
+        "title": "Chicken Burger",
+        "description": "A sizzling crispy two bun with chicken brest",
+        "price": "$5.0",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIgV6feJi91qaOO2qw2-6arIRNLPnKveIPg&usqp=CAU"
+      }
+    ]
+  }
+]
